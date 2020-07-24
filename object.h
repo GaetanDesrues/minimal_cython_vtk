@@ -11,7 +11,7 @@
 #include <vtkRenderer.h>
 #include <vtkRenderWindowInteractor.h>
 
-// Any of the following yields ImportError
+/* *** Any of the following yields ImportError *** */
 // #include <vtkPolyData.h>
 // #include <vtkTriangleFilter.h>
 // #include <vtkRegularPolygonSource.h>
